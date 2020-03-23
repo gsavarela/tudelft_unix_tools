@@ -1,3 +1,5 @@
+## Getting to the command line
+
 _\`Almost every day I find myself working on the command line processing data, automating tasks that would otherwise take me many mundane hours to perform in a manual fashion. I hope, that through this course you'll also gain this enthusiasm and ability to work productively on the Unix command line.\`_
 
 
@@ -67,3 +69,9 @@ _\`If you're running macOS, you get to the command line simply by navigating to 
 ![slide 14](14_ubuntu.jpg)
 
 _\`Finally, under the Ubuntu GNU/Linux distribution, all you need to do is to press Control-Alt-T, or search and run the terminal application. This will get you a terminal window with the command line prompt. This concludes our foundations unit on getting to the command line. Stay with us for the rest of the course!\`_
+
+
+## References
+
+- [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) (Pointer to web resource)
+- [cat](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/cat.html)(Unix command specification)
