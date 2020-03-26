@@ -5,5 +5,6 @@
 ## [1.1 Getting to the command line](01/01)
 ## [1.2 The command line interface](01/02)
 ## [1.3 Input and output redirection](01/03)
+## [1.4 Files and directories](01/04)
 
 
